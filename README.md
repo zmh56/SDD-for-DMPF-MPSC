@@ -1,7 +1,3 @@
-# SDD_for_DMPF_MPSC
-Adopting a speech based acoustic depression detection approach to evaluate from five perspectives.
-
-
 # Decoupled Multi-Perspective Fusion for Speech Depression Detection
 
 This repository contains the implementation of the **Decoupled Multi-Perspective Fusion (DMPF) model** proposed in the IEEE Transactions on Affective Computing article:  
