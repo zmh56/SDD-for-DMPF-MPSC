@@ -83,6 +83,17 @@ Modify the configuration files in each module (`cfg` or `.py` files) to specify 
 
 ---
 
+
+Data Acquisition:  
+To access the data, please visit the following link:  
+**[Insert Data Acquisition Link Here]**
+
+License Agreement:  
+After downloading the data, please sign the License Agreement file and send the signed copy to **zmh56@seu.edu.cn**.
+
+---
+
+
 ## Citation
 If you use this repository in your research, please cite the original paper:
 
