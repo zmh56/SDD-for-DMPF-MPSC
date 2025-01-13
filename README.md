@@ -16,7 +16,7 @@ The DMPF model extracts and integrates five critical features — **voiceprint**
    - [Pause, Energy, and Tremor Feature Extraction](#pause-energy-and-tremor-feature-extraction)
    - [Fusion Training](#fusion-training)
 4. [Configuration](#configuration)
-5. [Data Acquisition](#Data Acquisition)
+5. [Data](#Data)
 6. [Citation](#citation)
 7. [License](#license)
 8. [Contact](#contact)
@@ -86,7 +86,7 @@ Modify the configuration files in each module (`cfg` or `.py` files) to specify 
 ---
 
 
-## Data Acquisition:  
+## Data:  
 To access the data, please visit the following link:  
 **[Insert Data Acquisition Link Here]**
 
