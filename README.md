@@ -34,9 +34,10 @@ The DMPF model extracts and integrates five critical features — **voiceprint**
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-repo/your-project.git
+git clone https://github.com/zmh56/SDD-for-DMPF-MPSC.git
 cd your-project
 pip install -r requirements.txt
+```
 
 ## Usage
 
