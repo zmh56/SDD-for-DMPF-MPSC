@@ -1,0 +1,10 @@
+numpy
+librosa
+pandas
+matplotlib
+SoundFile
+pydub
+torch
+tqdm
+scikit-learn
+torch-geometric
