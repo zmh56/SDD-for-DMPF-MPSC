@@ -1,13 +1,11 @@
 # SDD_for_DMPF_MPSC
 Adopting a speech based acoustic depression detection approach to evaluate from five perspectives.
 
-Here's the full content of the `README.md` file:
 
-```markdown
 # Decoupled Multi-Perspective Fusion for Speech Depression Detection
 
 This repository contains the implementation of the **Decoupled Multi-Perspective Fusion (DMPF) model** proposed in the IEEE Transactions on Affective Computing article:  
-**"Decoupled Multi-Perspective Fusion for Speech Depression Detection"**.  
+**"Decoupled Multi-Perspective Fusion for Speech Depression Detection"**.
 
 The DMPF model extracts and integrates five critical features — **voiceprint**, **emotion**, **pause**, **energy**, and **tremor** — based on multi-perspective clinical manifestations. It provides a comprehensive framework for identifying speech depression using multi-view feature extraction and fusion.
 
@@ -24,6 +22,7 @@ The DMPF model extracts and integrates five critical features — **voiceprint**
 4. [Configuration](#configuration)
 5. [Citation](#citation)
 6. [License](#license)
+7. [Contact](#contact)
 
 ---
 
@@ -36,15 +35,12 @@ The DMPF model extracts and integrates five critical features — **voiceprint**
 ---
 
 ## Installation
-Clone the repository and install the required dependencies.
+Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/your-repo/your-project.git
 cd your-project
 pip install -r requirements.txt
-```
-
----
 
 ## Usage
 
