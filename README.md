@@ -1,6 +1,6 @@
 # Decoupled Multi-Perspective Fusion for Speech Depression Detection
 
-This repository contains the implementation of the **Decoupled Multi-Perspective Fusion (DMPF) model** proposed in the IEEE Transactions on Affective Computing article:  
+This repository contains the implementation of the **Decoupled Multi-Perspective Fusion (DMPF) model** proposed:  
 **"Decoupled Multi-Perspective Fusion for Speech Depression Detection"**.
 
 The DMPF model extracts and integrates five critical features — **voiceprint**, **emotion**, **pause**, **energy**, and **tremor** — based on multi-perspective clinical manifestations. It provides a comprehensive framework for identifying speech depression using multi-view feature extraction and fusion.
@@ -105,10 +105,10 @@ After downloading the data, please sign the License Agreement file (SHE-depressi
 If you use this repository in your research, please cite the original paper:
 
 ```bibtex
-@article{YourPaper,
+@article{DMPF,
   title={Decoupled Multi-Perspective Fusion for Speech Depression Detection},
   author={},
-  journal={IEEE Transactions on Affective Computing},
+  journal={},
   year={2025},
   volume={X},
   pages={XX-XX},
