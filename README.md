@@ -81,17 +81,22 @@ pip install -r requirements.txt
 ---
 
 ## Configuration
-Modify the configuration files in each module (`cfg` or `.py` files) to specify paths, parameters, and settings according to your dataset and requirements.
+Modify the configuration files in each module (`cfg` or `.py` files) to specify paths, parameters, and settings according to your dataset and requirements.  
+The input size of the audio segments is specified in the corresponding `cfg` files and `args` parameters.
 
 ---
 
 
 ## Data:  
-To access the data, please visit the following link:  
-**[Insert Data Acquisition Link Here]**
+To access the data, please visit the following links:
 
-License Agreement:  
-After downloading the data, please sign the License Agreement file and send the signed copy to **zmh56@seu.edu.cn**.
+- **MODMA Dataset**: [http://modma.lzu.edu.cn/data/index/](http://modma.lzu.edu.cn/data/index/)
+- **DAIC-WOZ Database**: [https://dcapswoz.ict.usc.edu/](https://dcapswoz.ict.usc.edu/)
+- 
+For the **MPSC Database**, you will need to sign the License Agreement file (SHE-depression-speech.pdf) and send the signed copy to **zmh56@seu.edu.cn**. Currently, the preprocessed feature set is available, while the raw data is being updated.
+
+### License Agreement:  
+After downloading the data, please sign the License Agreement file (SHE-depression-speech.pdf) and send the signed copy to **zmh56@seu.edu.cn**.
 
 ---
 
