@@ -93,11 +93,10 @@ To access the data, please visit the following links:
 - **MODMA Dataset**: [http://modma.lzu.edu.cn/data/index/](http://modma.lzu.edu.cn/data/index/)
 - **DAIC-WOZ Database**: [https://dcapswoz.ict.usc.edu/](https://dcapswoz.ict.usc.edu/)
 
-For the **MPSC Database**, you will need to sign the License Agreement file (SHE-depression-speech.pdf) and send the signed copy to **zmh56@seu.edu.cn**. Currently, due to privacy regulations, data authorization is currently under review. We will provide updates once approved.
-<!-- the preprocessed feature set is available, while the raw data is being updated. -->
+For the **MPSC Database**, currently, due to privacy regulations, data authorization is currently under review. We will provide updates once approved.
+<!-- the preprocessed feature set is available, while the raw data is being updated. you will need to sign the License Agreement file (SHE-depression-speech.pdf) and send the signed copy to **zmh56@seu.edu.cn**. -->
 
-### License Agreement:  
-After downloading the data, please sign the License Agreement file (SHE-depression-speech.pdf) and send the signed copy to **zmh56@seu.edu.cn**.
+<!-- ### License Agreement:  After downloading the data, please sign the License Agreement file (SHE-depression-speech.pdf) and send the signed copy to **zmh56@seu.edu.cn**. -->
 
 ---
 
