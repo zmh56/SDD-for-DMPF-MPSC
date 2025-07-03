@@ -5,6 +5,10 @@ This repository contains the implementation of the **Decoupled Multi-Perspective
 
 The DMPF model extracts and integrates five critical features — **voiceprint**, **emotion**, **pause**, **energy**, and **tremor** — based on multi-perspective clinical manifestations. It provides a comprehensive framework for identifying speech depression using multi-view feature extraction and fusion.
 
+## 📌 Updates
+**[2025-07-03]**  
+- Updated all configuration files (`cfg`) to explicitly define audio segment input size (e.g., `input_size`, `audio_segment_length`).
+- This makes it easier to adjust feature extraction windows and maintain consistency across modules.
 ---
 
 ## Table of Contents
