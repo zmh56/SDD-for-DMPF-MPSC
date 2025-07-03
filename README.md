@@ -8,7 +8,7 @@ The DMPF model extracts and integrates five critical features — **voiceprint**
 ## 📌 Updates
 **[2025-07-03]**  
 - Updated all configuration files (`cfg`) to explicitly define audio segment input size (e.g., `input_size`, `audio_segment_length`).
-- This makes it easier to adjust feature extraction windows and maintain consistency across modules.
+- The release of raw audio data is in progress; we are actively working on obtaining permission for public distribution.
 ---
 
 ## Table of Contents
