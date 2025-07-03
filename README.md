@@ -105,13 +105,12 @@ For the **MPSC Database**, currently, due to privacy regulations, data authoriza
 If you use this repository in your research, please cite the original paper:
 
 ```bibtex
-@article{DMPF,
-  title={Decoupled Multi-Perspective Fusion for Speech Depression Detection},
-  author={},
-  journal={},
+@article{zhao2025decoupled,
+  title={Decoupled Multi-perspective Fusion for Speech Depression Detection},
+  author={Zhao, Minghui and Gao, Hongxiang and Zhao, Lulu and Wang, Zhongyu and Wang, Fei and Zheng, Wenming and Li, Jianqing and Liu, Chengyu},
+  journal={IEEE Transactions on Affective Computing},
   year={2025},
-  volume={X},
-  pages={XX-XX},
+  publisher={IEEE}
 }
 ```
 
